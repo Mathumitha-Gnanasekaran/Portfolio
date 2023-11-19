@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.215674bd.css",
+    "main.js": "/Portfolio/static/js/main.039a21e1.js",
+    "static/media/image.png": "/Portfolio/static/media/image.361677c5194b6d25bab1.png",
+    "static/media/js-certificate.jpg": "/Portfolio/static/media/js-certificate.ffe2879ce785d68b8163.jpg",
+    "static/media/react-certificate.jpg": "/Portfolio/static/media/react-certificate.c74a91202f02fdf7598b.jpg",
+    "static/media/mern-certificate.jpg": "/Portfolio/static/media/mern-certificate.ea96fa839f0f79f603ea.jpg",
+    "static/media/python-certificate.jpg": "/Portfolio/static/media/python-certificate.9215e2befc3dc376ef18.jpg",
+    "static/media/ba-certificate.jpg": "/Portfolio/static/media/ba-certificate.b96c8f2a41c08dc05b4f.jpg",
+    "static/media/swift-certificate.jpg": "/Portfolio/static/media/swift-certificate.857da61da7763c91ee55.jpg",
+    "static/media/database.png": "/Portfolio/static/media/database.ea4aaee733da7b939ce1.png",
+    "static/media/react.png": "/Portfolio/static/media/react.809fed23bcdd686de66e.png",
+    "static/media/python.png": "/Portfolio/static/media/python.6a5cbc319ab3ddf8ef92.png",
+    "static/media/business-analyst.png": "/Portfolio/static/media/business-analyst.9a46aa4f34f46d47824f.png",
+    "static/media/express.png": "/Portfolio/static/media/express.5d2c84a62ed45cfc898f.png",
+    "static/media/nodejs.png": "/Portfolio/static/media/nodejs.007e99f68b718e476aba.png",
+    "static/media/frontend.png": "/Portfolio/static/media/frontend.27703953a3733a76857a.png",
+    "static/media/backend.png": "/Portfolio/static/media/backend.8a7a557ee73dda0fefad.png",
+    "static/media/html.png": "/Portfolio/static/media/html.a92a549a591f4acb527a.png",
+    "static/media/css.png": "/Portfolio/static/media/css.02d225c7df0b28341d8d.png",
+    "static/media/sql.png": "/Portfolio/static/media/sql.86cdb54cc5fc9c392ebd.png",
+    "static/media/ios.png": "/Portfolio/static/media/ios.c1ff50460e5714a88654.png",
+    "static/media/swift.png": "/Portfolio/static/media/swift.25f3bdb9d4edc34edbdc.png",
+    "static/media/wordpress.png": "/Portfolio/static/media/wordpress.11ed091523e3152b651f.png",
+    "static/media/github.png": "/Portfolio/static/media/github.f11021803f68852df283.png",
+    "static/media/mongodb.png": "/Portfolio/static/media/mongodb.7d8ed821bb5bbf048687.png",
+    "static/media/java-script.png": "/Portfolio/static/media/java-script.78206ba65e01c7d57080.png",
+    "static/media/linkedin.png": "/Portfolio/static/media/linkedin.f249b38224ca41a0b909.png",
+    "static/media/instagram.png": "/Portfolio/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "static/media/logo.svg": "/Portfolio/static/media/logo.408daa89dc925a754006ed9f86ba564e.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.215674bd.css.map": "/Portfolio/static/css/main.215674bd.css.map",
+    "main.039a21e1.js.map": "/Portfolio/static/js/main.039a21e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.215674bd.css",
+    "static/js/main.039a21e1.js"
+  ]
+}
